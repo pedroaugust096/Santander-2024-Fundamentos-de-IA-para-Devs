@@ -24,7 +24,7 @@ ChatGPT：
 ## 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto. Como segundo episódio da série, retomou o assunto tratado no primeiro e adicionou novos conceitos sobre IA. Teve como público alvo os iniciantes em inteligência artificial, sendo produzido para que até mesmo quem possuísse zero contato com o assunto fosse capaz de assimilar o conteúdo apresentado neste material.
 
-[LINK PARA O PODCAST AQUI]()
+[TechFantasy – Os Revolucionários da Magia da Inteligência Artificial – EP02](https://github.com/pedroaugust096/Santander-2024-Fundamentos-de-IA-para-Devs/tree/main/lab-natty-or-not/output)
 
 ## 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
